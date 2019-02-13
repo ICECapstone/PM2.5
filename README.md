@@ -27,7 +27,7 @@ If you would like to see PM readings online, please set up your ThingsSpeak chan
 ![thingspeak](https://user-images.githubusercontent.com/11530521/52684231-2253a980-2f78-11e9-8c2a-095cd966f92f.png)
 
 <b>4. Upload the code to your NodeMCU: </b><br>
-The code is available as PM25.ino.  You will need to replace:
+Note: I slightly modified the original code (https://learn.adafruit.com/pm25-air-quality-sensor) to allow displaying data online via ThingSpeak. The code is available as PM25.ino.  You will need to replace:
 - ssid with your ssid
 - password with your Wi-Fi password
 - myWriteAPIKey with your ThingSpeak's writeAPI 
