@@ -1,6 +1,6 @@
 # PM2.5
 
-n this lecture, you will use your NodeMCU to read PM1, PM2.5 and PM10 level from PMS5003, and display them on ThingSpeak in 20-second intervals. 
+In this lecture, you will use your NodeMCU to read PM1, PM2.5 and PM10 level from PMS5003, and display them on ThingSpeak in 20-second intervals. 
 
 You will need:
 
