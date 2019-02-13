@@ -21,10 +21,10 @@ PMS5003 TX -> GPIO2 of NodeMCU <br>
 
 ![screen shot 2019-02-13 at 9 57 37 am](https://user-images.githubusercontent.com/11530521/52683656-15ce5180-2f76-11e9-92f8-c4107b32d5bb.png)
 
-<b>3. Set up ThingSpeak (optional) </b><br>
+<b>3. Set up ThingSpeak: </b><br>
 If you would like to see PM readings online, please set up your ThingsSpeak channel on www.thingspeak.com.  Gather your API key and Channel ID for use in the code.
 
-<b>4. Upload the code to your NodeMCU </b><br>
+<b>4. Upload the code to your NodeMCU: </b><br>
 The code is available as PM25.ino.  You will need to replace:
 - ssid with your ssid
 - password with your Wi-Fi password
