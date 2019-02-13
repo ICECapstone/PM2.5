@@ -12,7 +12,7 @@ You will need:
 - Jumper wires
 
 <b>1. Set up NodeMCU:</b><br>
-Please follow the instructions at the last section of https://github.com/ICECapstone/Blink to set up your NodeMCU. 
+Please follow the instructions available at the bottom of this page https://github.com/ICECapstone/Blink to set up your NodeMCU. 
 
 <b>2. Physical connections: </b><br>
 PMS5003 Vcc -> 5V of the power supply module <br>
