@@ -33,8 +33,8 @@ Note: I slightly modified the original code (https://learn.adafruit.com/pm25-air
 - myWriteAPIKey with your ThingSpeak's writeAPI 
 - myChannelNumber with your ThingSpeak's channel number
 
-<b>5. Enjoy: </b>
-Once you upload the code, your NodeMCU starts gathering data from PMS5003, and data appear on ThingsSpeak.  
+<b>5. Enjoy: </b></br>
+Once you upload the code, your NodeMCU starts gathering data from PMS5003, and data are displayed on ThingsSpeak.  
 
 ![data](https://user-images.githubusercontent.com/11530521/52684414-c63d5500-2f78-11e9-9d23-03794f51702d.png)
 
