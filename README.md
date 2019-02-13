@@ -11,20 +11,20 @@ You will need:
 - MicroUSB
 - Jumper wires
 
-<b>1. Set up NodeMCU:</b>
+<b>1. Set up NodeMCU:</b><br>
 Please follow the instructions at the last section of this repo https://github.com/ICECapstone/Blink to set up your NodeMCU. 
 
-<b>2. Physical connections: </b>
+<b>2. Physical connections: </b><br>
 PMS5003 Vcc -> 5V of the power supply module <br>
 PMS5003 Ground -> Ground of the power supply module -> NodeMCU ground <br>
 PMS5003 TX -> GPIO2 of NodeMCU <br>
 
 ![screen shot 2019-02-13 at 9 57 37 am](https://user-images.githubusercontent.com/11530521/52683656-15ce5180-2f76-11e9-92f8-c4107b32d5bb.png)
 
-<b>3. Set up ThingSpeak (optional) </b>
+<b>3. Set up ThingSpeak (optional) </b><br>
 If you would like to see PM readings online, please set up your ThingsSpeak channel on www.thingspeak.com.  Gather your API key and Channel ID for use in the code.
 
-<b>4. Upload the code to your NodeMCU </b>
+<b>4. Upload the code to your NodeMCU </b><br>
 The code is available as PM25.ino.  You will need to replace:
 - ssid with your ssid
 - password with your Wi-Fi password
