@@ -22,7 +22,7 @@ PMS5003 TX -> GPIO2 of NodeMCU <br>
 ![screen shot 2019-02-13 at 9 57 37 am](https://user-images.githubusercontent.com/11530521/52683656-15ce5180-2f76-11e9-92f8-c4107b32d5bb.png)
 
 <b>3. Set up ThingSpeak: </b><br>
-If you would like to see PM readings online, please set up your ThingsSpeak channel on www.thingspeak.com.  Gather your API key and Channel ID for use in the code.
+If you would like to see PM readings online, please set up your ThingsSpeak channel on www.thingspeak.com.  Gather your API key and Channel ID for use in the code.  Under Channel setting, enable three fields for data gathering (field 1: PM2.5; field 2: PM1.0; field3: PM10).
 
 ![thingspeak](https://user-images.githubusercontent.com/11530521/52684231-2253a980-2f78-11e9-8c2a-095cd966f92f.png)
 
