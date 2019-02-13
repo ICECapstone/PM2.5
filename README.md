@@ -4,8 +4,8 @@ In this setup, you will use your NodeMCU to read PM1, PM2.5 and PM10 level from 
 
 You will need:
 
-- NodeMCU v2 cp2102 (~$3 on aliexpress)
-- PMS5003 (~$14 on aliexpress)
+- NodeMCU v2 cp2102 (~$3)
+- PMS5003 (~$14)
 - Power supply module 
 - Breadboard
 - MicroUSB
