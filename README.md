@@ -11,13 +11,13 @@ You will need:
 - MicroUSB
 - Jumper wires
 
-<b>1. Set up NodeMCU</b>
+<b>1. Set up NodeMCU:</b>
 Please follow the instructions at the last section of this repo https://github.com/ICECapstone/Blink to set up your NodeMCU. 
 
-<b>2. Physical connections </b>
-PMS5003 Vcc -> 5V of the power supply module
-PMS5003 Ground -> Ground of the power supply module -> NodeMCU ground
-PMS5003 TX -> GPIO2 of NodeMCU
+<b>2. Physical connections: </b>
+PMS5003 Vcc -> 5V of the power supply module <br>
+PMS5003 Ground -> Ground of the power supply module -> NodeMCU ground <br>
+PMS5003 TX -> GPIO2 of NodeMCU <br>
 
 ![screen shot 2019-02-13 at 9 57 37 am](https://user-images.githubusercontent.com/11530521/52683656-15ce5180-2f76-11e9-92f8-c4107b32d5bb.png)
 
