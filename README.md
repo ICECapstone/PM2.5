@@ -24,6 +24,8 @@ PMS5003 TX -> GPIO2 of NodeMCU <br>
 <b>3. Set up ThingSpeak: </b><br>
 If you would like to see PM readings online, please set up your ThingsSpeak channel on www.thingspeak.com.  Gather your API key and Channel ID for use in the code.
 
+![thingspeak](https://user-images.githubusercontent.com/11530521/52684231-2253a980-2f78-11e9-8c2a-095cd966f92f.png)
+
 <b>4. Upload the code to your NodeMCU: </b><br>
 The code is available as PM25.ino.  You will need to replace:
 - ssid with your ssid
@@ -31,4 +33,8 @@ The code is available as PM25.ino.  You will need to replace:
 - myWriteAPIKey with your ThingSpeak's writeAPI 
 - myChannelNumber with your ThingSpeak's channel number
 
-Enjoy!
+<b>5. Enjoy: </b>
+Once you upload the code, your NodeMCU starts gathering data from PMS5003, and data appear on ThingsSpeak.  
+
+![data](https://user-images.githubusercontent.com/11530521/52684414-c63d5500-2f78-11e9-9d23-03794f51702d.png)
+
